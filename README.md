@@ -9,7 +9,7 @@ BUAT LINK YT
 # Tugas membuat Package and Modul
 # Tugas yang diberikan memiliki soal sebagai berikut
 soal
-img
+![img](gambar/soal%20uas.jpeg)
 
 # Penjelasan
 # Daftar_Nilai
@@ -85,23 +85,23 @@ img
 # View
 - Input Nilai
 - menambahkan fungsi input yang nanti nya akan di deklarasikan di setiap module nya, def input_nama(): def input_nim(): dan yg lainnya, yang nanti akan di masukkan kedalam data={}
-- View Nilai
+- View Nilai    
 - deklarasikan fungsi def lihat_data(): Kita menggunakan kondisi percabangan if, ambil data dari data
 - lalu cetak print()
 Maka OUTPUT yg didaptkan adalah
 HURUF T
-img
+![img](gambar/t.jpeg)
 
 HURUF C
-img
+![img](gambar/c.jpeg)
 
 HURUF U
-img
+![img](gambar/u.jpeg)
 
 HURUF L
-img
+![img](gambar/l.jpeg)
 
 HURUF H
-img
+![img](gambar/h.jpeg)
 
 Sekian penjelasan yang saya dampaikan jika masih ada kekurangan mohon dimaafkan dan teima kasih.
