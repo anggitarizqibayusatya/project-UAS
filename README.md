@@ -8,7 +8,8 @@ https://youtu.be/5i7y6qZQ4NE
 
 # Tugas membuat Package and Modul
 # Tugas yang diberikan memiliki soal sebagai berikut
-soal
+# soal
+
 ![img](gambar/soal%20uas.jpeg)
 
 # Penjelasan
@@ -88,20 +89,27 @@ soal
 - View Nilai    
 - deklarasikan fungsi def lihat_data(): Kita menggunakan kondisi percabangan if, ambil data dari data
 - lalu cetak print()
-Maka OUTPUT yg didaptkan adalah
+
+# Maka OUTPUT yg didapatkan adalah
+
 HURUF T
+
 ![img](gambar/t.jpeg)
 
 HURUF C
+
 ![img](gambar/c.jpeg)
 
 HURUF U
+
 ![img](gambar/u.jpeg)
 
 HURUF L
+
 ![img](gambar/l.jpeg)
 
 HURUF H
+
 ![img](gambar/h.jpeg)
 
 Sekian penjelasan yang saya dampaikan jika masih ada kekurangan mohon dimaafkan dan teima kasih.
